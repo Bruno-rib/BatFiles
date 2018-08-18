@@ -1,0 +1,9 @@
+@echo off
+start https://www.binance.com/
+start https://www.khanacademy.org/?learn=1
+start https://mail.google.com/mail/u/0/#inbox
+start https://mail.yahoo.com/d/folders/1
+start https://www.gdax.com/trade/ETH-USD
+start https://yobit.net/en/orders/
+start https://coinmarketcap.com/all/views/all/
+echo sup
